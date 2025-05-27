@@ -1,0 +1,29 @@
+# Executables and object files
+*.exe
+*.o
+*.obj
+*.d
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Build outputs
+bin/
+build/
+out/
+
+# IDE and editor files
+.vscode/
+*.cbp
+*.suo
+*.sln
+*~
+*.swp
+
+# System files
+.DS_Store
+
+*.out
