@@ -1,5 +1,5 @@
-# Tag-based File Indexing System
-
+# TDD Example using C++
+This repository solves the following problem using C++ and GTest (CMake). 
 ## Problem:
 Files can be tagged with multiple keywords. Design a system to:
 
